@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GumPulZa_v0.03</string>
+    <string name="btn_next">next</string>
+    <string name="btn_previous">previous</string>
+    <string name="Answer_1">1</string>
+    <string name="Answer_2">2</string>
+    <string name="Answer_3">3</string>
+    <string name="Answer_4">4</string>
+</resources>
